@@ -18,6 +18,7 @@ const NovPLaying = () => {
     getNow();
   }, []);
   console.log(now);
+  console.log("new ");
   return (
     <div id="movie">
       <div className="container">
