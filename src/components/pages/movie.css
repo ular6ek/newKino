@@ -1,0 +1,32 @@
+/* #movie{
+    padding: 20px 0 0 ;
+}
+
+.movie{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px ;
+}
+
+.movie{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.movie img{
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 10px  darkred;
+}
+
+.card{
+    width: 250px;
+}
+
+.movie h3{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 30px;
+    
+} */

@@ -1,0 +1,121 @@
+body {
+  background: rgb(255, 255, 255);
+
+  height: 100ch;
+  background-attachment: fixed;
+  background-position: top center;
+  background: url("https://user-images.githubusercontent.com/33485020/108069438-5ee79d80-7089-11eb-8264-08fdda7e0d11.jpg");
+}
+.watch h1 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.watch h1 span {
+  color: #f10000;
+  font-family: Inter;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.watch h3 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.watch p {
+  color: #c5c1c1;
+  font-family: Inter;
+  font-size: 20px;
+  margin-top: 0.4em;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.watch {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.watch img {
+  margin-top: 25px;
+  width: 300px;
+}
+
+button {
+  border-radius: 21.305px;
+  background: #00a3ff;
+  color: #fff;
+  font-family: Inter;
+  font-size: 18.526px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 105.6px;
+  height: 25.011px;
+  flex-shrink: 0;
+  border: none;
+  margin-top: 30px;
+}
+
+h4 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 20px;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration-line: underline;
+  margin-left: -900px;
+  margin-top: -29px;
+  text-decoration: none;
+}
+
+input[type="text"] {
+  width: 250px;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.search-form {
+  display: flex;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#home {
+}
