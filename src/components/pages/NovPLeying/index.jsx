@@ -18,7 +18,6 @@ const NovPLaying = () => {
     getNow();
   }, []);
   console.log(now);
-console.log("awef");
   return (
     <div id="movie">
       <div className="container">
